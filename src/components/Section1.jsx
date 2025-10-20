@@ -12,7 +12,7 @@ const Section1 = () => {
         </div>
         <div className="section1__right">
           <img
-            src="/whistle-time-landing/Images/2 - Welcome.svg"
+            src="/fridilovee-landing-page/fridilovee_images/fridilovee_accesories.jpg"
             alt="Registro de fútbol"
             className="section1__image"
           />

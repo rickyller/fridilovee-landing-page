@@ -13,7 +13,7 @@ const Section2 = () => {
           </p>
           <div className="reason-image">
             <img
-              src="/whistle-time-landing/Images/productivity.png"
+            src="/fridilovee-landing-page/fridilovee_images/fridilovee_necklace.jpg"
               alt="Eficiencia"
             />
           </div>
@@ -24,9 +24,9 @@ const Section2 = () => {
           <p className="reason-description">
             {Strings.reasons.connection.description}
           </p>
-          <div className="reason-image">
+          <div className="reason-middle-image">
             <img
-              src="/whistle-time-landing/Images/connection.png"
+            src="/fridilovee-landing-page/fridilovee_images/fridilovee_heart.jpg"
               alt="Sincronización"
             />
           </div>
@@ -39,7 +39,7 @@ const Section2 = () => {
           </p>
           <div className="reason-image">
             <img
-              src="/whistle-time-landing/Images/reports.png"
+            src="/fridilovee-landing-page/fridilovee_images/fridilovee_ring.jpg"
               alt="Interfaz"
             />
           </div>

@@ -16,12 +16,6 @@ const LongScrollingPage = () => {
       <section id="section2">
         <Section2 />
       </section>
-      <section id="section5">
-        <Section5 />
-      </section>
-      <section id="section4">
-        <Section4 />
-      </section>
       <section id="section3">
         <Section3 />
       </section>

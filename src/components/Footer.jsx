@@ -6,13 +6,13 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer__top">
         <div className="footer__left">
-          <p className="footer__text">© 2025 Whistle Time</p>
+          <p className="footer__text">© 2025 Fridilovee</p>
         </div>
 
         <div className="footer__center">
           <img
-            src="/logo_whistleTime.svg"
-            alt="Logo"
+              src="/fridilovee-landing-page/fridilovee_logo_purple.jpg"
+            alt=""
             className="footer__logo"
           />
         </div>
@@ -20,17 +20,17 @@ const Footer = () => {
         <div className="footer__right">
           <a href="" target="_blank" rel="noopener noreferrer">
             <img
-              src="/whistle-time-landing/Images/Facebook.svg"
+              src="/fridilovee-landing-page/fridilovee_images/Facebook.svg"
               alt="Facebook"
             />
           </a>
           <a
-            href="https://www.instagram.com/whistletime_oficial"
+            href="https://www.instagram.com/fridilovee"
             target="_blank"
             rel="noopener noreferrer"
           >
             <img
-              src="/whistle-time-landing/Images/Instagram.png"
+              src="/fridilovee-landing-page/fridilovee_images/Instagram.png"
               alt="Instagram"
             />
           </a>

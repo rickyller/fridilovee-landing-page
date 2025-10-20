@@ -7,9 +7,9 @@ const Section3 = () => {
     <section className="section section3">
       <div className="section3__content">
         <div className="section3__left">
-          <a href="https://play.google.com/store/apps/details?id=com.whistletime.app">
+          <a href="https://www.instagram.com/fridilovee">
             <img
-              src="/whistle-time-landing/Images/QR_WhistleTime_app.png"
+              src="/fridilovee-landing-page/fridilovee_images/fridilovee_heart.jpg"
               alt="QR Code para Descargar"
               className="section3__qr"
             />

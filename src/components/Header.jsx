@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import "../styles/Header.scss";
-import logo from "/logo_whistleTime.svg";
+import logo from "/fridilovee_logo.jpg";
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -58,35 +58,22 @@ const Header = () => {
               className="header__link"
               onClick={(e) => handleScrollToSection(e, "section2")}
             >
-              Razones
+              Misión y visión
             </a>
             <a
               href="#section5"
               className="header__link"
-              onClick={(e) => handleScrollToSection(e, "section5")}
-            >
-              Casos de Uso
-            </a>
-            <a
-              href="#section4"
-              className="header__link"
-              onClick={(e) => handleScrollToSection(e, "section4")}
-            >
-              Funcionalidades
-            </a>
-            <a
-              href="#section3"
-              className="header__link"
               onClick={(e) => handleScrollToSection(e, "section3")}
             >
-              Descarga
+
+              Sala de prensa
             </a>
             <a
               href="#section6"
               className="header__link"
               onClick={(e) => handleScrollToSection(e, "section6")}
             >
-              FAQ
+              Contáctanos
             </a>
           </div>
         )}

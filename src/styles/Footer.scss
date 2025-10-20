@@ -2,7 +2,7 @@
 @use "../assets/TextStyles.scss" as text;
 
 .footer {
-  background-color: colors.$primary;
+  background-color: colors.$tertiary;
   padding: 24px;
   display: flex;
   flex-direction: column;
@@ -58,7 +58,7 @@
 }
 
 .footer__logo {
-  width: 3rem;
+  width: 8rem;
 }
 
 .footer__right a {

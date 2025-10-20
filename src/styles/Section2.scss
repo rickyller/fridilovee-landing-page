@@ -2,7 +2,7 @@
 @use "../assets/TextStyles.scss" as text;
 
 .section2 {
-  background-color: colors.$primary;
+  background-color: colors.$secondary;
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -79,13 +79,29 @@
   margin-top: 24px; // Mayor espacio superior
 
   img {
-    width: 80px; // Imagen más grande
-    height: 80px;
+    width: 150px; // Imagen más grande
+    height: 150px;
     object-fit: contain;
 
     @media (max-width: 768px) {
       width: 64px;
       height: 64px;
+    }
+  }
+}
+
+.reason-middle-image {
+  margin-top: 24px; // Mayor espacio superior
+
+  img {
+    // Este es el tamaño para pantallas grandes (escritorio y tabletas grandes)
+    width: 25em;
+    height: 25em;
+    object-fit: contain;
+
+    @media (max-width: 768px) {
+      width: 250px; // Nuevo ancho para móviles (o el tamaño que prefieras)
+      height: 250px; // Nuevo alto para móviles
     }
   }
 }

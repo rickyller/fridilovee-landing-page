@@ -3,41 +3,39 @@
 const Strings = {
   // Hero Section
   hero: {
-    title: "La nueva forma de arbitrar fútbol con precisión y rapidez",
+    title: "Quiénes somos: Bienvenid@ al universo de Fridilovee!",
     subtitle:
-      "Optimiza el registro de eventos en el campo y fuera de él con Whistle Time, la app dual para smartwatch y smartphone.",
+      "Fridilovee es el sueño de crear accesorios que irradien alegría. Una marca que nació hace tres años con una premisa clara: todo hecho a mano, con amor, color y diseños irrepetibles. Ofrecemos un servicio de personalización para que lleves contigo una pieza verdaderamente única. Tu accesorio perfecto, diseñado con amor. Eso es Fridilovee.",
     cta: "¡Descarga ahora!",
   },
 
   // Razones (Sección 2)
   reasons: {
     precision: {
-      title: "Precisión en el registro",
+      title: "Misión:",
       description:
-        "Captura cada evento en tiempo real sin interrumpir el flujo del partido.",
+        "En Fridilovee, creamos accesorios hechos con amor, a mano y con mucho cuidado, para que cada persona pueda llevar algo tan especial y único como su propia historia. Nuestro servicio de personalización nos permite hacer realidad los sueños de nuestros clientes, creando piezas que brillan con un toque personal.",
     },
     connection: {
-      title: "Conexión garantizada",
-      description:
-        "Funciona sin conexión a internet y sincroniza automáticamente al final del partido.",
+
     },
     reports: {
-      title: "Reportes automáticos",
+      title: "Visión:",
       description:
-        "Genera informes en PDF listos para enviar a las autoridades deportivas.",
+        "Somos ser esa marca que las personas eligen cuando buscan accesorios que no solo sean lindos, sino que también cuenten algo único de ellas. Soñamos con llevar nuestras piezas a todo el mundo, llenando cada rincón con amor, estilo y mucha autenticidad.",
     },
   },
 
   // Sección 3 - Descarga
   download: {
-    title: "Descarga la App y Mejora tu Experiencia Arbitral",
+    title: "Nuestra marca sigue creciendo y llegando a más personas",
     steps: [
-      "Escanea el código QR para descargar la aplicación.",
-      "Instala y configura tu perfil de árbitro.",
-      "Empieza a registrar eventos de forma rápida y precisa.",
+      "🗓 Fecha: 22 de octubre",
+      "📍 Lugar: CUAAD",
+      "⏰ Horario: 10am a 5 pm",
     ],
     finalNote:
-      "No pierdas la oportunidad de llevar el arbitraje al siguiente nivel.",
+      "Nos emociona anunciar que este próximo 22 de octubre estaremos presentes en un nuevo bazar especial, lleno de estilo, ambiente y muchas sorpresas. Será una gran oportunidad para conocer nuestros productos, descubrir nuestras nuevas colecciones y disfrutar de descuentos exclusivos solo por ese día.",
   },
   // Sección 4 - Funcionalidades Clave
   features: {
@@ -96,22 +94,17 @@ const Strings = {
   },
   // Preguntas Frecuentes (Sección 6)
   faq: {
-    title: "¿Tienes dudas? Aquí tenemos las respuestas",
+    title: "Contáctanos",
     questions: [
       {
-        question: "¿Qué pasa si no tengo conexión a internet?",
+        question: "@fridilovee",
         answer:
-          "Whistle Time guarda todos los datos en caché y los sincroniza cuando recuperes la conexión.",
+          "En Instagram y Facebook",
       },
       {
-        question: "¿Es compatible con todos los smartwatches?",
+        question: "3322096821",
         answer:
-          "Actualmente, la app funciona con dispositivos Samsung Galaxy Watch 5 Pro y superiores.",
-      },
-      {
-        question: "¿Qué información se incluye en los reportes PDF?",
-        answer:
-          "Los reportes incluyen todos los eventos registrados, incidencias externas y un resumen del partido.",
+          "Por medio de Whatsapp",
       },
     ],
   },

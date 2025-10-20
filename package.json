@@ -1,9 +1,9 @@
 {
-  "name": "whistle-time-landing",
+  "name": "fridilovee-landing-page",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Charli311.github.io/whistle-time-landing/",
+  "homepage": "https://rickyller.github.io/fridilovee-landing-page/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
